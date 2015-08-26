@@ -10,7 +10,7 @@ namespace TestApp.Application
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("first version... (sprint2)");
+            Console.WriteLine("first version... (sprint3)");
             Console.ReadKey();
         }
     }
